@@ -1,0 +1,10 @@
+* plump-bundle
+
+A fast binary storage format for Plump documents
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/plump-bundle.git   |
+| commit  | dea1c54  |
+| systems | plump-bundle |
+|---------+-------------------------------------------|
+
